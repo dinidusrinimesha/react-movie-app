@@ -1,12 +1,48 @@
-# React + Vite
+# 🎬 FindYourMoviee
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**FindYourMoviee** is a sleek and responsive web application built with **React + Vite** that helps users discover movies based on their preferences. It uses the [TMDB API](https://developer.themoviedb.org/reference/discover-movie) to fetch real-time movie data and integrates **Appwrite** to track how often a movie is searched, enabling a **Trending Movies** section based on user interactions.
 
-Currently, two official plugins are available:
+> ⚠️ This project was built by following a tutorial by [JS Mastery](https://youtu.be/dCLhUialKPQ?si=yp1PkTwC9gZX7KOJ), and is not an original concept implementation.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## Expanding the ESLint configuration
+🌐 [Click here to view the live website](https://findyourmoviee.netlify.app/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![Preview of FindYourMoviee](preview.png)
+
+---
+
+## 📌 Features
+
+- 🔍 **Search movies** by title and genre
+- 📈 **Trending movies** based on user activity
+- 🎞️ Browse through latest, popular, and top-rated movies
+- 📁 **Appwrite** integration to track search data
+- 📡 Real-time data from [TMDB API](https://developer.themoviedb.org/reference/discover-movie)
+- ⚡ Built using **React + Vite** for fast performance
+- 📱 Fully responsive and modern UI
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React, Vite, Tailwind CSS
+- **Backend / BaaS**: Appwrite (for data tracking)
+- **API**: TMDB Movie API
+- **Deployment**: Netlify
+
+---
+
+## 📚 Learning Acknowledgement
+
+This project was built as a learning exercise by following the **JS Mastery React Tutorial**. The structure, UI/UX, and certain logic are based on the tutorial content.
+
+- 🔗 [JS Mastery - YouTube](https://www.youtube.com/c/JavaScriptMastery)
+- 🔗 [JS Mastery Pro](https://jsmastery.pro/)
+
+---
+
+## 📷 Screenshots
+
+> Add one or more screenshots here for better understanding.
+
