@@ -14,7 +14,7 @@
 
 ## 📌 Features
 
-- 🔍 **Search movies** by title and genre
+- 🔍 **Search movies** by title
 - 📈 **Trending movies** based on user activity
 - 🎞️ Browse through latest, popular, and top-rated movies
 - 📁 **Appwrite** integration to track search data
