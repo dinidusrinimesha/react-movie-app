@@ -42,7 +42,3 @@ This project was built as a learning exercise by following the **JS Mastery Reac
 
 ---
 
-## 📷 Screenshots
-
-> Add one or more screenshots here for better understanding.
-
